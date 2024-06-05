@@ -4,7 +4,7 @@
 <img src="https://github.com/atlasfyber/atlas-images/blob/main/atlas_github_header_1000x1000.png?raw=true" width="350" height="350">
 </h1>
 
-<img alt="Discord" src="https://img.shields.io/badge/JOIN OUR DISCORD COMMUNITY-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p7ntkNA)" />
+<img alt="Discord" src="https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/p7ntkNA)" /> <img alt="Patreon" src="https://img.shields.io/badge/DONATE-%237289DA.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/atlasteam)" />
 
 
 
