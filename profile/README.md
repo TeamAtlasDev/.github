@@ -15,6 +15,7 @@ Your astronomy companion on Discord! Get real-time data on upcoming launches and
 
 - [App Directory](https://discord.com/application-directory/1183177251316047983)
 - [Horizon  Status](https://status.teamatlas.dev)
+- [Donate for Horizon](https://www.patreon.com/atlasteam)
 
 ### 🪐 Horizon+ API
 Horizon+ API empowers us to offer exclusive perks to our Horizon donors, seamlessly connected with external databases. While we don't have public APIs yet, it's on our roadmap for the future.
@@ -57,7 +58,7 @@ We'll manually update this list with major achievements as our projects progress
 <hr>
   <div align="center">
   Team Atlas (Formely known ZERO Team) » 2020-2024 <br> 
-  <b>Emal Contact: info@teamatlas.dev</b>
+  <b>Emal Contact: info@teamatlas.dev</b> <br>
   <br>
 
 </div>
