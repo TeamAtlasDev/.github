@@ -17,8 +17,10 @@ Your astronomy companion on Discord! Get real-time data on upcoming launches and
 - [Horizon  Status](https://status.teamatlas.dev)
 - [Donate for Horizon](https://www.patreon.com/atlasteam)
 
-### 🪐 Horizon+ API
-Horizon+ API empowers us to offer exclusive perks to our Horizon donors, seamlessly connected with external databases. While we don't have public APIs yet, it's on our roadmap for the future.
+### 🪐 Horizon API
+Horizon API helps us collect live data from various API sources in one place and gets updated every few minutes, providing them directly to Horizon. This is a private API, exclusive for Horizon. 
+
+- [Horizon API Status](https://status.teamatlas.dev)
 
 ## 📊 Statistics
 We'll manually update this list with major achievements as our projects progress. For now, here's what we've accomplished in less than four months.
@@ -39,8 +41,8 @@ We'll manually update this list with major achievements as our projects progress
         <td class="tg-0pky">🟩 Active</td>
         <td class="tg-0pky">Horizon</td>
         <td class="tg-0pky">More than 15k+</td>
-        <td class="tg-0pky">More than 140+</td>
-        <td class="tg-0pky">More than 80k+</td>
+        <td class="tg-0pky">More than 160+</td>
+        <td class="tg-0pky">More than 85k+</td>
       </tr>
       <tr>
         <td class="tg-0pky">🟧 Inactive</td>
@@ -53,7 +55,7 @@ We'll manually update this list with major achievements as our projects progress
     </tbody>
     </table>
 </p>
-<b>Last update: 9/5/2024</b>
+<b>Last update: 12/6/2024</b>
 
 <hr>
   <div align="center">
