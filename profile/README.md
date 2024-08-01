@@ -41,7 +41,7 @@ We'll manually update this list with major achievements as our projects progress
         <td class="tg-0pky">🟩 Active</td>
         <td class="tg-0pky">Horizon</td>
         <td class="tg-0pky">More than 15k+</td>
-        <td class="tg-0pky">More than 160+</td>
+        <td class="tg-0pky">More than 200+</td>
         <td class="tg-0pky">More than 85k+</td>
       </tr>
       <tr>
@@ -55,7 +55,7 @@ We'll manually update this list with major achievements as our projects progress
     </tbody>
     </table>
 </p>
-<b>Last update: 12/6/2024</b>
+<b>Last update: 01/08/2024</b>
 
 <hr>
   <div align="center">
