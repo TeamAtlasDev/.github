@@ -59,7 +59,7 @@ We'll manually update this list with major achievements as our projects progress
 
 <hr>
   <div align="center">
-  Team Atlas (Formely known ZERO Team) » 2020-2024 <br> 
+  Team Atlas (Formely known ZERO Team) » 2020-2025 <br> 
   <b>Email Contact: info@teamatlas.dev</b> <br>
   <br>
 
